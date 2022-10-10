@@ -1,0 +1,15 @@
+G:\________Учеба_________\С#\SEMINAR_3.1\bin\Debug\net6.0\SEMINAR_3.1.exe
+G:\________Учеба_________\С#\SEMINAR_3.1\bin\Debug\net6.0\SEMINAR_3.1.deps.json
+G:\________Учеба_________\С#\SEMINAR_3.1\bin\Debug\net6.0\SEMINAR_3.1.runtimeconfig.json
+G:\________Учеба_________\С#\SEMINAR_3.1\bin\Debug\net6.0\SEMINAR_3.1.dll
+G:\________Учеба_________\С#\SEMINAR_3.1\bin\Debug\net6.0\SEMINAR_3.1.pdb
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.csproj.AssemblyReference.cache
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.GeneratedMSBuildEditorConfig.editorconfig
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.AssemblyInfoInputs.cache
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.AssemblyInfo.cs
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.csproj.CoreCompileInputs.cache
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.dll
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\refint\SEMINAR_3.1.dll
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.pdb
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\SEMINAR_3.1.genruntimeconfig.cache
+G:\________Учеба_________\С#\SEMINAR_3.1\obj\Debug\net6.0\ref\SEMINAR_3.1.dll
